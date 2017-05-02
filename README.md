@@ -1,7 +1,7 @@
 # hello-world
-My very first GitHub repository
+Hello World
+===========
+
+Hello to the world and hello to GitHub
 
 
-About me
-
-Singing, creative mother with a love for numbers.
